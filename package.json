@@ -1,0 +1,22 @@
+{
+  "name": "portfolio_gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benthac/portfolio_gen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benthac/portfolio_gen/issues"
+  },
+  "homepage": "https://github.com/benthac/portfolio_gen#readme",
+  "dependencies": {
+    "inquirer": "^8.1.1"
+  }
+}
